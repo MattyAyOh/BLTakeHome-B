@@ -3,7 +3,8 @@
 
 **The purpose of this exercise is to give you a practical test of your ability to write some endpoints that are similar to our demands in production**
 
-**The project should take around 3-4 hours, please let us know if you have concerns about the timeframe**
+**The project should take around ~3 hours, please let us know if you have concerns about the timeframe**
+- Please make an initial commit once you start, and incremental commits as you see fit
 
 ## **So here’s the outline for the exercise:**
 - We would like you to build a content system, similar to Reddit.
