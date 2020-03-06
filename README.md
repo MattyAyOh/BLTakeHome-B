@@ -16,11 +16,11 @@
 `postgres://xtxusdhnrrmdac:95ddcbbdb7c445a8cbde57b703e459eb6e8bfc49e034bd82507a938b327b0bcb@ec2-184-72-236-3.compute-1.amazonaws.com:5432/d1st28o90pimq0`
 
 ## **Criteria:**
-1) Development Speed
-2) Maintainability
+- Development Speed
+- Maintainability
   - Modular
   - Readability
-3) Performant
+- Performant
 
 ## **Output:**
 - A code repository, including `/.git`, zipped
